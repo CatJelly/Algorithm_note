@@ -1,0 +1,2 @@
+
+            idx = person.index('N')
